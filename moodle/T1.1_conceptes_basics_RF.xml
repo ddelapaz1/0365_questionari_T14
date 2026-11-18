@@ -1,0 +1,2473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>$module$/top/Categoria per defecte en T1.1 Qüestionari: Conceptes bàsics de radiofreqüència/Radiofreqüència i espectre</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-01 · Com s'aconsegueix generar radiofreqüència?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Com s'aconsegueix generar radiofreqüència?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La radiofreqüència s'aconsegueix fent passar un corrent elèctric variable per un conductor. Aquest corrent genera camps magnètics concèntrics al voltant del conductor i produeix ones electromagnètiques que es propaguen per l'espai.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Fent passar un corrent elèctric variable per un conductor.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Fent passar un corrent continu constant per un conductor.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Un corrent constant crea un camp magnètic que no varia i, per tant, no genera ones que es propaguin.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Escalfant un conductor fins que emet llum.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això és radiació tèrmica i llum visible, que estan molt per sobre de l'espectre radioelèctric.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Fregant dos materials aïllants per carregar-los d'electricitat estàtica.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;L'electricitat estàtica no és un corrent variable i no produeix ones de radiofreqüència.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Acostant un imant permanent a un conductor sense moure'l.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Sense moviment ni variació, el camp magnètic és constant i no hi ha cap ona electromagnètica.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Radiofreqüència i espectre</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-02 · Quin rang de freqüències abasta l'espectre radioelèctric?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quin rang de freqüències abasta l'espectre radioelèctric?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;L'espectre radioelèctric és el conjunt de freqüències en què les ones electromagnètiques es propaguen per l'espai per a radiocomunicacions: dels 9 kHz als 3000 GHz (3 THz).&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;De 9 kHz a 3000 GHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;De 20 Hz a 20 kHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquest és el rang de freqüències audibles per l'oïda humana, no l'espectre radioelèctric.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;De 3 kHz a 300 MHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;El límit superior és massa baix: deixaria fora la telefonia mòbil, el Wi‑Fi o els satèl·lits.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;De 300 MHz a 300 GHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquest rang correspon aproximadament a les microones; l'espectre radioelèctric és molt més ampli.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;De 400 THz a 790 THz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquest rang correspon a la llum visible, no a les ones de ràdio.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Radiofreqüència i espectre</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-03 · El límit superior de l'espectre radioelèctric és 3000 GHz. A quin valor equival?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;El límit superior de l'espectre radioelèctric és 3000 GHz. A quin valor equival?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;1 THz = 1000 GHz, per tant 3000 GHz = 3 THz.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;3 THz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;300 GHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;300 GHz és el límit superior de la banda EHF, no el de l'espectre radioelèctric. 3000 GHz és deu vegades més.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;30 THz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És deu vegades més gran: 1 THz són 1000 GHz, per tant 3000 GHz són 3 THz.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;3 GHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;1 GHz són 1000 MHz; 3000 GHz és mil vegades més gran que 3 GHz.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;3 PHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;1 PHz són 1.000.000 GHz; aquest valor és mil vegades més gran.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Radiofreqüència i espectre</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-04 · Què es genera al voltant d'un conductor quan hi circula un corrent elèctric variable?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Què es genera al voltant d'un conductor quan hi circula un corrent elèctric variable?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;El corrent variable genera camps magnètics concèntrics al voltant del conductor. La variació d'aquests camps produeix ones electromagnètiques que es propaguen per l'espai.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Camps magnètics concèntrics que produeixen ones electromagnètiques.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Ones sonores que es propaguen per l'aire al voltant del conductor.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Les ones sonores són vibracions mecàniques de l'aire, no ones electromagnètiques.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Un camp magnètic constant que queda confinat i no es propaga per l'espai.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Si el corrent és variable, el camp també ho és, i és aquesta variació la que genera l'ona.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Radiació ionitzant semblant als raigs X que travessa el conductor.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Les ones de ràdio són radiació no ionitzant; els raigs X són a freqüències molt més altes.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Només un camp elèctric estàtic.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Un camp estàtic no varia i no es propaga; cal un camp variable.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Radiofreqüència i espectre</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="category">
+    <category>
+      <text>$module$/top/Categoria per defecte en T1.1 Qüestionari: Conceptes bàsics de radiofreqüència/Freqüència, període i longitud d'ona</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-05 · En quina unitat es mesura la freqüència d'una ona?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;En quina unitat es mesura la freqüència d'una ona?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La freqüència (f) és el nombre de cicles per segon i es mesura en hertzs (Hz). 1 Hz = 1 cicle per segon.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;En hertzs (Hz).&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;En metres (m).&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;En metres es mesura la longitud d'ona (λ), no la freqüència.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;En segons (s).&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;En segons es mesura el període (T), que és l'invers de la freqüència.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;En decibels (dB).&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Els decibels expressen relacions de potència o nivells, no la freqüència.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;En metres per segon (m/s).&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;En m/s es mesura la velocitat de propagació de l'ona.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-06 · Què és el període (T) d'una ona?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Què és el període (T) d'una ona?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;El període és el temps que triga una ona periòdica a completar un cicle (la part de l'ona que es va repetint). Es mesura en segons i és l'invers de la freqüència: T = 1/f.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;El temps que triga l'ona a completar un cicle.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La distància que recorre l'ona en un cicle.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquesta és la definició de longitud d'ona (λ), que es mesura en metres.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El nombre de cicles que fa l'ona en un segon.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquesta és la definició de freqüència (f), que es mesura en hertzs.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El valor màxim que assoleix el senyal.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això és l'amplitud, no el període.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La velocitat a què es desplaça l'ona pel medi.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això és la velocitat de propagació (v), que es mesura en m/s.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-07 · Què és la longitud d'ona (λ)?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Què és la longitud d'ona (λ)?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La longitud d'ona és la distància que recorre l'ona durant un període. Es mesura en metres.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;La distància que recorre l'ona en un període.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El temps que triga l'ona a completar un cicle.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això és el període (T), que es mesura en segons.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La distància màxima a què arriba el senyal des de l'emissor.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això és l'abast o cobertura, que depèn de la potència i de la propagació, no la longitud d'ona.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El nombre de cicles per segon.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això és la freqüència (f).&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La longitud física de l'antena emissora.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La mida de l'antena es relaciona amb λ, però no és la seva definició.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-08 · Quina relació hi ha entre la freqüència i la longitud d'ona d'un senyal que es propaga en un mateix medi?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quina relació hi ha entre la freqüència i la longitud d'ona d'un senyal que es propaga en un mateix medi?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Són inversament proporcionals: f = v / λ, on v és la velocitat de propagació al medi. A major freqüència, menor longitud d'ona, i viceversa.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Són inversament proporcionals: si augmenta la freqüència, disminueix la longitud d'ona.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Són directament proporcionals: si augmenta la freqüència, augmenta la longitud d'ona.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És al revés: com més cicles per segon, menys distància recorre l'ona en cada cicle.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Són independents: la longitud d'ona només depèn de la potència amb què s'emet el senyal.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La potència no afecta la longitud d'ona; aquesta depèn de la freqüència i de la velocitat al medi.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Es relacionen per f = v · λ, de manera que creixen o decreixen alhora.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La relació correcta és f = v / λ (o bé v = f · λ).&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Coincideixen numèricament sempre que es mesurin en unitats del sistema internacional.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Són magnituds diferents (Hz i m) i no poden ser iguals.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-09 · Un senyal de ràdio FM a 100 MHz té una longitud d'ona d'uns 3 m, mentre que un senyal GSM a 900 MHz té una longitud d'ona d'uns 0,33 m. Què explica aquesta diferència?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Un senyal de ràdio FM a 100 MHz té una longitud d'ona d'uns 3 m, mentre que un senyal GSM a 900 MHz té una longitud d'ona d'uns 0,33 m. Què explica aquesta diferència?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La freqüència i la longitud d'ona són inversament proporcionals (f = v / λ). El senyal GSM té una freqüència més alta i, per tant, una longitud d'ona més curta.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;El senyal GSM té una freqüència més alta, i a major freqüència, menor longitud d'ona.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El senyal GSM s'emet amb menys potència i, per això, les seves ones són més curtes.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La potència no influeix en la longitud d'ona.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El senyal GSM es propaga més a poc a poc per l'aire que el senyal de ràdio FM.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Tots dos senyals es propaguen per l'aire pràcticament a la mateixa velocitat, ≈ 3·10⁸ m/s.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La freqüència i la longitud d'ona són directament proporcionals.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Si ho fossin, el senyal de més freqüència tindria la longitud d'ona més llarga, i és al revés.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Les antenes de telefonia mòbil són més petites i generen ones de menys longitud.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La mida de l'antena s'adapta a la longitud d'ona, però no n'és la causa.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-10 · Quina relació hi ha entre el període (T) i la freqüència (f) d'una ona?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quina relació hi ha entre el període (T) i la freqüència (f) d'una ona?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;El període és l'invers de la freqüència: T = 1 / f. Com més cicles per segon fa l'ona, menys temps dura cada cicle.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;T = 1 / f: com més alta és la freqüència, més curt és el període.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;T = f: el període i la freqüència són la mateixa magnitud amb noms diferents.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Són magnituds diferents: el període es mesura en segons i la freqüència en hertzs.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Com més alta és la freqüència, més llarg és el període.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És al revés: si hi ha més cicles en un segon, cada cicle dura menys.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El període no depèn de la freqüència, sinó de la potència.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;El període només depèn de la freqüència; la potència no hi intervé.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;T = v / λ: el període és la velocitat dividida per la longitud d'ona.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;v / λ és la freqüència, no el període. El període és λ / v = 1 / f.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-11 · Comparant el Wi‑Fi de 2,4 GHz amb el de 5 GHz, quin té la longitud d'ona més curta?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Comparant el Wi‑Fi de 2,4 GHz amb el de 5 GHz, quin té la longitud d'ona més curta?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Com que la freqüència i la longitud d'ona són inversament proporcionals, el Wi‑Fi de 5 GHz, que té la freqüència més alta, té la longitud d'ona més curta.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;El de 5 GHz, perquè té una freqüència més alta.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El de 2,4 GHz, perquè té una freqüència més baixa.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Amb una freqüència més baixa, la longitud d'ona és més llarga, no més curta.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Tots dos tenen la mateixa longitud d'ona perquè són Wi‑Fi.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La longitud d'ona depèn de la freqüència, no de la tecnologia.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Depèn de la potència del router.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La potència no influeix en la longitud d'ona.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El de 5 GHz, perquè es propaga més ràpid.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Tots dos es propaguen a la mateixa velocitat; la diferència és la freqüència.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-12 · Què vol dir que un senyal té una freqüència d'1 MHz?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Què vol dir que un senyal té una freqüència d'1 MHz?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La freqüència és el nombre de cicles per segon. 1 MHz = 1.000.000 Hz, és a dir, un milió de cicles cada segon.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Que fa un milió de cicles cada segon.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Que recorre un milió de metres cada segon.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això seria una velocitat; la freqüència compta cicles, no distància.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Que la longitud d'ona és d'1 metre.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Un senyal d'1 MHz té una longitud d'ona de centenars de metres, no d'1 m.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Que cada cicle dura un milió de segons.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És al revés: si fa un milió de cicles per segon, cada cicle dura una milionèsima de segon.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Que la potència emesa és d'un megawatt.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La potència es mesura en watts, no en hertzs.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-13 · Un senyal passa a propagar-se per un medi on la velocitat de propagació és més baixa, però manté la mateixa freqüència. Què passa amb la seva longitud d'ona?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Un senyal passa a propagar-se per un medi on la velocitat de propagació és més baixa, però manté la mateixa freqüència. Què passa amb la seva longitud d'ona?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Segons f = v / λ, si la freqüència es manté i la velocitat disminueix, la longitud d'ona també ha de disminuir (λ = v / f).&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Disminueix.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Augmenta.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Amb la mateixa freqüència, si l'ona avança més a poc a poc, recorre menys distància en cada cicle.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;No canvia, perquè només depèn de la freqüència.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La longitud d'ona depèn de la freqüència i també de la velocitat de propagació al medi.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Es converteix en una ona sonora.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;L'ona continua sent electromagnètica; només canvia la velocitat.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La freqüència es redueix a zero.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;L'enunciat diu que la freqüència es manté; el que canvia és λ.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-14 · Si dupliquem la freqüència d'un senyal que es propaga pel mateix medi, què passa amb la seva longitud d'ona?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Si dupliquem la freqüència d'un senyal que es propaga pel mateix medi, què passa amb la seva longitud d'ona?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Com que f = v / λ i la velocitat del medi no canvia, λ = v / f: si f es duplica, λ es redueix a la meitat.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Es redueix a la meitat.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Es duplica.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això passaria si fossin directament proporcionals, però són inversament proporcionals.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;No canvia, perquè només depèn del medi.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;El medi fixa la velocitat, però λ també depèn de la freqüència.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Es redueix a la quarta part.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La relació és inversa simple, no quadràtica: es redueix a la meitat.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Es quadruplica.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;En augmentar la freqüència, la longitud d'ona disminueix, no augmenta.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-15 · A l'expressió f = v / λ, què representa v?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;A l'expressió f = v / λ, què representa v?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;v és la velocitat de propagació de l'ona en el medi. Al buit (i aproximadament a l'aire) és la velocitat de la llum, c ≈ 3·10⁸ m/s.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;La velocitat de propagació de l'ona en el medi.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El voltatge que s'aplica als terminals de l'antena.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Tot i que s'escriu amb v, aquí no és una tensió sinó una velocitat.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El volum de l'espai on es propaga l'ona.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;El volum no intervé en la relació entre f i λ.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La velocitat del so a l'aire, que és d'uns 343 m/s.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Les ones electromagnètiques no viatgen a la velocitat del so (≈ 343 m/s), sinó a ≈ 3·10⁸ m/s.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La variació de la potència amb el temps.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La relació f = v / λ no inclou la potència.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Freqüència, període i longitud d'ona</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="category">
+    <category>
+      <text>$module$/top/Categoria per defecte en T1.1 Qüestionari: Conceptes bàsics de radiofreqüència/Bandes de freqüència</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-16 · A quina banda pertany la ràdio FM comercial (88–108 MHz)?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;A quina banda pertany la ràdio FM comercial (88–108 MHz)?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La banda VHF va de 30 MHz a 300 MHz i inclou la ràdio FM, la TV terrestre, l'aviació i diversos serveis mòbils.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;VHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;HF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;HF va de 3 a 30 MHz; s'utilitza per a comunicacions de llarga distància per ona ionosfèrica.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;UHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;UHF comença a 300 MHz; s'hi troben la TV digital i la telefonia mòbil.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;MF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;MF va de 300 kHz a 3 MHz; és la banda de la ràdio AM.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;SHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;SHF va de 3 a 30 GHz (microones, Wi‑Fi de 5 GHz, satèl·lits).&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-17 · A quina banda pertany la ràdio AM d'ona mitjana?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;A quina banda pertany la ràdio AM d'ona mitjana?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La banda MF (300 kHz – 3 MHz) s'utilitza per a ràdio AM, balises i comunicacions marítimes.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;MF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;VHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;VHF és la banda de la ràdio FM, no de l'AM d'ona mitjana.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;LF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;LF (30–300 kHz) s'usa per a navegació, radiobalises i sincronització.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;UHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;UHF (300 MHz – 3 GHz) és la banda de la TV digital i la telefonia mòbil.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;VLF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;VLF (3–30 kHz) s'usa per a comunicacions submarines i senyals horàries.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-18 · Quin és el rang de freqüències de la banda UHF?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quin és el rang de freqüències de la banda UHF?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;UHF (Ultra High Frequency) va de 300 MHz a 3 GHz.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;De 300 MHz a 3 GHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;De 30 MHz a 300 MHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquest és el rang de VHF.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;De 3 GHz a 30 GHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquest és el rang de SHF.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;De 3 MHz a 30 MHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquest és el rang de HF.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;De 30 GHz a 300 GHz.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquest és el rang d'EHF.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-19 · Quina banda s'utilitza per a les comunicacions amb submarins, gràcies a la seva elevada penetració en l'aigua?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quina banda s'utilitza per a les comunicacions amb submarins, gràcies a la seva elevada penetració en l'aigua?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La banda VLF (3–30 kHz) té una penetració elevada en aigua i terra i molt poca atenuació, tot i que ofereix una amplada de banda molt baixa.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;VLF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;SHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;SHF és molt sensible a l'aigua (fins i tot a la pluja); no penetra al mar.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;UHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;UHF s'atenua molt a l'aigua; s'usa per a mòbils, TV digital o Wi‑Fi.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;HF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;HF s'utilitza per a llarga distància per ona ionosfèrica, no per penetrar a l'aigua.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;EHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;EHF és la banda més absorbida per l'aigua i els gasos atmosfèrics.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-20 · Quina banda és especialment sensible a la pluja (rain fade) i s'utilitza per a enllaços punt a punt de microones, Wi‑Fi de 5 GHz, radars i satèl·lits?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quina banda és especialment sensible a la pluja (rain fade) i s'utilitza per a enllaços punt a punt de microones, Wi‑Fi de 5 GHz, radars i satèl·lits?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La banda SHF (3–30 GHz) es propaga en visió directa, ofereix gran capacitat i feixos estrets, però és sensible a la pluja i als obstacles.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;SHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;VHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;VHF (30–300 MHz) no pateix rain fade de manera significativa; s'usa per a FM i TV.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;MF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;MF és la banda de la ràdio AM; la pluja pràcticament no l'afecta.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;LF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;LF es propaga per ona de terra i és poc afectada per les condicions atmosfèriques.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;HF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;HF depèn sobretot de la ionosfera, no de la pluja.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-21 · Quina banda està molt afectada per l'absorció del vapor d'aigua i de l'oxigen, i s'utilitza per al 5G mmWave?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quina banda està molt afectada per l'absorció del vapor d'aigua i de l'oxigen, i s'utilitza per al 5G mmWave?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La banda EHF (30–300 GHz) és molt sensible a l'absorció atmosfèrica, exigeix visió directa estricta i usa feixos molt direccionals. S'utilitza per al 5G mmWave, enllaços de backhaul i radars avançats.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;EHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;UHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Les bandes 5G de UHF (per exemple, 700 MHz) no són mmWave i no pateixen aquesta absorció.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;VHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;VHF es fa servir per a FM i TV; l'absorció atmosfèrica hi és molt baixa.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;VLF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;VLF és la banda de freqüència més baixa de la taula, amb molt poca atenuació.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;MF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;MF és la banda de la ràdio AM.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-22 · A quina banda pertanyen el Wi‑Fi de 2,4 GHz i el GPS?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;A quina banda pertanyen el Wi‑Fi de 2,4 GHz i el GPS?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La banda UHF (300 MHz – 3 GHz) inclou la TV digital, la telefonia mòbil, el Wi‑Fi de 2,4 GHz, el GPS i molts dispositius IoT.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;UHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;SHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;SHF comença a 3 GHz; aquí hi trobem el Wi‑Fi de 5 i 6 GHz, però no el de 2,4 GHz.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;VHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;VHF acaba a 300 MHz, molt per sota de 2,4 GHz.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;EHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;EHF comença a 30 GHz.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;HF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;HF acaba a 30 MHz.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-23 · Quina banda s'utilitza per a comunicacions aeronàutiques i marítimes de llarga distància i per a radioaficionats, aprofitant la refracció a la ionosfera?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quina banda s'utilitza per a comunicacions aeronàutiques i marítimes de llarga distància i per a radioaficionats, aprofitant la refracció a la ionosfera?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;La banda HF (3–30 MHz) es propaga per ona ionosfèrica, que permet comunicacions a llarga distància, però amb una forta variabilitat segons el cicle solar i l'hora del dia.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;HF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;UHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;UHF es propaga en visió directa; no aprofita la ionosfera.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;SHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;SHF travessa la ionosfera i es fa servir per a satèl·lits, no per rebotar-hi.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;VLF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;VLF s'usa per a submarins i navegació, amb una amplada de banda molt baixa.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;EHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;EHF exigeix visió directa estricta.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-24 · Quina afirmació descriu correctament la tendència general en pujar de banda (de VLF cap a EHF)?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quina afirmació descriu correctament la tendència general en pujar de banda (de VLF cap a EHF)?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;A mesura que augmenta la freqüència, la propagació depèn cada cop més de la visió directa i augmenta l'atenuació per pluja, obstacles i gasos atmosfèrics, però també augmenten l'amplada de banda i la capacitat.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Augmenten la dependència de la visió directa i l'atenuació per pluja i gasos.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La penetració en l'aigua i el terra és cada cop més gran.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És al revés: la màxima penetració en aigua la té VLF.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'abast per ona de terra augmenta perquè les ones segueixen millor la curvatura terrestre.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;L'ona de terra és típica de LF i MF; a freqüències altes no s'aprofita.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'amplada de banda disponible disminueix i, per tant, també es redueix la capacitat.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És al revés: VLF té poca amplada de banda, i SHF i EHF ofereixen molta capacitat.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;La refracció a la ionosfera és cada cop més útil per arribar a llarga distància.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La refracció ionosfèrica és característica de HF; a VHF i superiors les ones travessen la ionosfera.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Bandes de freqüència</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="category">
+    <category>
+      <text>$module$/top/Categoria per defecte en T1.1 Qüestionari: Conceptes bàsics de radiofreqüència/Propagació</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-25 · Què caracteritza la propagació per ona directa (línia de vista)?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Què caracteritza la propagació per ona directa (línia de vista)?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;En la propagació per ona directa, el senyal viatja directament de l'emissor al receptor sense obstacles. És típica de VHF, UHF i SHF.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Viatja de l'emissor al receptor en línia recta, sense obstacles.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El senyal segueix la curvatura de la Terra per difracció.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això descriu l'ona terrestre, típica de LF i MF.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El senyal rebota a la ionosfera i torna a la superfície.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això descriu l'ona ionosfèrica, típica de HF.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El senyal penetra a l'aigua i al terra sense patir gaire atenuació.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Aquesta és una característica de la banda VLF.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El senyal només es propaga de nit, quan la ionosfera és més estable.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La propagació per ona directa no depèn de l'hora del dia.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Propagació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-26 · Quin tipus de propagació segueix la curvatura de la Terra per difracció?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quin tipus de propagació segueix la curvatura de la Terra per difracció?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;L'ona terrestre segueix la curvatura de la Terra per difracció. És típica de les bandes LF i MF.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;L'ona terrestre.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'ona directa.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;L'ona directa necessita visió directa i no segueix la curvatura terrestre.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'ona ionosfèrica.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;L'ona ionosfèrica arriba lluny rebotant a la ionosfera, no seguint la superfície.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'ona guiada per cable coaxial.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És una transmissió per cable, no una propagació per l'espai.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'ona reflectida en un satèl·lit.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Els satèl·lits retransmeten el senyal, però necessiten visió directa.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Propagació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-27 · Quina banda és típica de la propagació per ona ionosfèrica?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Quina banda és típica de la propagació per ona ionosfèrica?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;L'ona ionosfèrica rebota a la ionosfera i torna a la superfície, actuant com un «repetidor natural». És típica de la banda HF.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;HF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;UHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;UHF es propaga per ona directa: travessa la ionosfera sense rebotar-hi.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;LF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;LF es propaga sobretot per ona terrestre.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;SHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;SHF es propaga en visió directa i travessa la ionosfera (per això s'usa per a satèl·lits).&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;VHF.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;VHF es propaga principalment en visió directa.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Propagació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-28 · Per què la propagació per ona ionosfèrica es compara amb un «repetidor natural»?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Per què la propagació per ona ionosfèrica es compara amb un «repetidor natural»?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Les ones de HF es refracten a la ionosfera i tornen a la superfície lluny de l'emissor. És com si la ionosfera retransmetés el senyal, cosa que permet un gran abast sense infraestructura intermèdia.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Perquè la ionosfera retorna les ones a la superfície lluny de l'emissor.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Perquè la ionosfera amplifica la potència del senyal abans de retornar-lo.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La ionosfera no amplifica; només canvia la direcció de l'ona, que de fet s'atenua.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Perquè la ionosfera canvia la freqüència del senyal.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La freqüència del senyal no canvia en refractar-se a la ionosfera.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Perquè hi ha repetidors instal·lats en globus i satèl·lits a la ionosfera.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;No hi ha cap equip: el fenomen és natural.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Perquè segueix la curvatura de la Terra per difracció.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Això és l'ona terrestre, no l'ona ionosfèrica.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Propagació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-29 · Segons la regla pràctica, quina part de la primera zona de Fresnel ha d'estar lliure d'obstacles en un enllaç per ona directa?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Segons la regla pràctica, quina part de la primera zona de Fresnel ha d'estar lliure d'obstacles en un enllaç per ona directa?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Com a regla pràctica, s'acostuma a considerar que com a mínim el 60 % de la primera zona de Fresnel ha d'estar lliure d'obstacles.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Com a mínim el 60 %.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Com a mínim el 10 %.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És massa poc: l'obstrucció provocaria pèrdues importants.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Només la línia recta entre les antenes; la zona de Fresnel no importa.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Tenir visió directa no és suficient: cal que una bona part de la primera zona de Fresnel estigui lliure.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Exactament el 50 %.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La regla pràctica és d'un mínim del 60 %.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;El 100 % de totes les zones de Fresnel.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;És un requisit innecessàriament estricte; la regla pràctica es refereix al 60 % de la primera zona.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Propagació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-30 · Es vol muntar un enllaç punt a punt de microones entre dues torres. Hi ha un edifici que no talla la línia recta entre les antenes, però ocupa el 50 % de la primera zona de Fresnel. Què podem concloure?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Es vol muntar un enllaç punt a punt de microones entre dues torres. Hi ha un edifici que no talla la línia recta entre les antenes, però ocupa el 50 % de la primera zona de Fresnel. Què podem concloure?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Només hi ha un 50 % de la primera zona de Fresnel lliure, menys del 60 % mínim recomanat. Encara que hi hagi visió directa, l'enllaç pot patir pèrdues. Caldria elevar les antenes o canviar-ne la ubicació.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;No es compleix la regla pràctica: cal elevar les antenes o canviar-ne la ubicació.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'enllaç és correcte perquè hi ha visió directa entre les antenes.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La visió directa no és suficient: la primera zona de Fresnel ha d'estar lliure almenys en un 60 %.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'enllaç és correcte perquè queda lliure el 50 % de la zona, que és el mínim recomanat.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;El mínim recomanat és el 60 %, no el 50 %.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Cal canviar a la banda MF perquè el senyal segueixi la curvatura de la Terra.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Els enllaços punt a punt de microones treballen en SHF; MF no ofereix la capacitat necessària.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;L'edifici no influeix perquè les microones travessen els obstacles sense pèrdues.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Les microones (SHF) són sensibles als obstacles.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Propagació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>RF-31 · Per què la ràdio AM (banda MF) pot arribar més lluny de nit que de dia?</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Per què la ràdio AM (banda MF) pot arribar més lluny de nit que de dia?&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;A MF, de dia la propagació és principalment per ona de terra. De nit, la propagació per ona de cel (ionosfèrica) pot augmentar l'abast.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Perquè de nit s'hi afegeix la propagació per ona ionosfèrica.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Perquè de nit les emissores sempre transmeten amb més potència.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;L'augment d'abast es deu a la propagació, no a un canvi de potència.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Perquè de nit hi ha visió directa entre l'emissor i el receptor.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La visió directa no depèn de l'hora del dia.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Perquè de nit la longitud d'ona del senyal es fa més gran.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La longitud d'ona depèn de la freqüència, que no canvia.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Perquè de nit no plou tant i la pluja no atenua el senyal.&lt;/p&gt;</text>
+      <feedback format="html">
+        <text>&lt;p&gt;La pluja afecta sobretot SHF i EHF, no MF; i no depèn de l'hora del dia.&lt;/p&gt;</text>
+      </feedback>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Propagació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="category">
+    <category>
+      <text>$module$/top/Categoria per defecte en T1.1 Qüestionari: Conceptes bàsics de radiofreqüència/Aplicació</text>
+    </category>
+  </question>
+  <question type="matching">
+    <name>
+      <text>RF-32 · Relaciona cada banda de freqüència amb una aplicació típica.</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Relaciona cada banda de freqüència amb una aplicació típica.&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;VLF: comunicacions submarines. MF: ràdio AM. HF: radioaficionats i comunicacions de llarga distància. VHF: ràdio FM. UHF: telefonia mòbil i GPS. SHF: Wi‑Fi de 5 GHz, radars i satèl·lits.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text>&lt;p&gt;VLF&lt;/p&gt;</text>
+      <answer>
+        <text>Comunicacions submarines</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;MF&lt;/p&gt;</text>
+      <answer>
+        <text>Ràdio AM</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;HF&lt;/p&gt;</text>
+      <answer>
+        <text>Radioaficionats i comunicacions de llarga distància</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;VHF&lt;/p&gt;</text>
+      <answer>
+        <text>Ràdio FM comercial</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;UHF&lt;/p&gt;</text>
+      <answer>
+        <text>Telefonia mòbil i GPS</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;SHF&lt;/p&gt;</text>
+      <answer>
+        <text>Wi‑Fi de 5 GHz, radars i satèl·lits</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Fibra òptica</text>
+      </answer>
+    </subquestion>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Aplicació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="matching">
+    <name>
+      <text>RF-33 · Relaciona cada magnitud amb la seva unitat.</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Relaciona cada magnitud amb la seva unitat.&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Freqüència: hertzs (Hz). Període: segons (s). Longitud d'ona: metres (m). Velocitat de propagació: metres per segon (m/s).&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text>&lt;p&gt;Freqüència (f)&lt;/p&gt;</text>
+      <answer>
+        <text>Hertz (Hz)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;Període (T)&lt;/p&gt;</text>
+      <answer>
+        <text>Segon (s)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;Longitud d'ona (λ)&lt;/p&gt;</text>
+      <answer>
+        <text>Metre (m)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;Velocitat de propagació (v)&lt;/p&gt;</text>
+      <answer>
+        <text>Metre per segon (m/s)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Decibel (dB)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Watt (W)</text>
+      </answer>
+    </subquestion>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Aplicació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="matching">
+    <name>
+      <text>RF-34 · Relaciona cada tipus de propagació amb la seva descripció i les bandes típiques.</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Relaciona cada tipus de propagació amb la seva descripció i les bandes típiques.&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Ona directa: sense obstacles entre emissor i receptor (VHF, UHF, SHF). Ona terrestre: segueix la curvatura de la Terra per difracció (LF, MF). Ona ionosfèrica: rebota a la ionosfera i torna a la superfície (HF).&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text>&lt;p&gt;Ona directa&lt;/p&gt;</text>
+      <answer>
+        <text>Viatja sense obstacles de l'emissor al receptor (VHF, UHF, SHF)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;Ona terrestre&lt;/p&gt;</text>
+      <answer>
+        <text>Segueix la curvatura de la Terra per difracció (LF, MF)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;Ona ionosfèrica&lt;/p&gt;</text>
+      <answer>
+        <text>Rebota a la ionosfera i torna a la superfície (HF)</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Viatja confinada dins d'un cable coaxial</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Penetra a l'interior de la Terra i surt als antípodes</text>
+      </answer>
+    </subquestion>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Aplicació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="ordering">
+    <name>
+      <text>RF-35 · Ordena les bandes de freqüència de menor a major freqüència.</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Ordena les bandes de freqüència de menor a major freqüència.&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;VLF (3–30 kHz) → LF (30–300 kHz) → MF (300 kHz – 3 MHz) → HF (3–30 MHz) → VHF (30–300 MHz) → UHF (300 MHz – 3 GHz) → SHF (3–30 GHz) → EHF (30–300 GHz). Cada banda és deu vegades més alta que l'anterior.&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <layouttype>VERTICAL</layouttype>
+    <selecttype>ALL</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>RELATIVE_NEXT_EXCLUDE_LAST</gradingtype>
+    <showgrading>SHOW</showgrading>
+    <numberingstyle>none</numberingstyle>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <shownumcorrect>1</shownumcorrect>
+    <answer fraction="1.0000000" format="html">
+      <text>&lt;p&gt;VLF&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="2.0000000" format="html">
+      <text>&lt;p&gt;LF&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="3.0000000" format="html">
+      <text>&lt;p&gt;MF&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="4.0000000" format="html">
+      <text>&lt;p&gt;HF&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="5.0000000" format="html">
+      <text>&lt;p&gt;VHF&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="6.0000000" format="html">
+      <text>&lt;p&gt;UHF&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="7.0000000" format="html">
+      <text>&lt;p&gt;SHF&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="8.0000000" format="html">
+      <text>&lt;p&gt;EHF&lt;/p&gt;</text>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Aplicació</text>
+      </tag>
+    </tags>
+  </question>
+  <question type="ordering">
+    <name>
+      <text>RF-36 · Ordena aquests senyals de la longitud d'ona més llarga a la més curta.</text>
+    </name>
+    <questiontext format="html">
+      <text>&lt;p&gt;Ordena aquests senyals de la longitud d'ona més llarga a la més curta.&lt;/p&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;p&gt;Com que λ = v / f, com més alta és la freqüència, més curta és la longitud d'ona: AM 1 MHz (300 m), FM 100 MHz (3 m), GSM 900 MHz (≈ 0,33 m), Wi‑Fi 2,4 GHz (12,5 cm), Wi‑Fi 5 GHz (6 cm) i 5G mmWave 28 GHz (≈ 1 cm).&lt;/p&gt;</text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.25</penalty>
+    <hidden>0</hidden>
+    <layouttype>VERTICAL</layouttype>
+    <selecttype>ALL</selecttype>
+    <selectcount>0</selectcount>
+    <gradingtype>RELATIVE_NEXT_EXCLUDE_LAST</gradingtype>
+    <showgrading>SHOW</showgrading>
+    <numberingstyle>none</numberingstyle>
+    <correctfeedback format="html">
+      <text>&lt;p&gt;Correcte.&lt;/p&gt;</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>&lt;p&gt;Parcialment correcte. Revisa l'explicació.&lt;/p&gt;</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>&lt;p&gt;Incorrecte. Revisa l'explicació.&lt;/p&gt;</text>
+    </incorrectfeedback>
+    <shownumcorrect>1</shownumcorrect>
+    <answer fraction="1.0000000" format="html">
+      <text>&lt;p&gt;Ràdio AM a 1 MHz&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="2.0000000" format="html">
+      <text>&lt;p&gt;Ràdio FM a 100 MHz&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="3.0000000" format="html">
+      <text>&lt;p&gt;Telefonia GSM a 900 MHz&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="4.0000000" format="html">
+      <text>&lt;p&gt;Wi‑Fi a 2,4 GHz&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="5.0000000" format="html">
+      <text>&lt;p&gt;Wi‑Fi a 5 GHz&lt;/p&gt;</text>
+    </answer>
+    <answer fraction="6.0000000" format="html">
+      <text>&lt;p&gt;5G mmWave a 28 GHz&lt;/p&gt;</text>
+    </answer>
+    <tags>
+      <tag>
+        <text>0365</text>
+      </tag>
+      <tag>
+        <text>Conceptes bàsics de radiofreqüència</text>
+      </tag>
+      <tag>
+        <text>Aplicació</text>
+      </tag>
+    </tags>
+  </question>
+</quiz>
